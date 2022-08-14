@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Starlk</title>
+    <link>https://starlkyt.github.io/</link>
+    <description>Recent content on Starlk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Aug 2022 22:28:19 +0300</lastBuildDate><atom:link href="https://starlkyt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Launch</title>
+      <link>https://starlkyt.github.io/articles/launch/</link>
+      <pubDate>Sun, 14 Aug 2022 22:28:19 +0300</pubDate>
+      
+      <guid>https://starlkyt.github.io/articles/launch/</guid>
+      <description>Hi there! I have created this small blog where I will share articles about stuff that I have an interest in, mostly programming. Also, I might use it as a portfolio for my stuff! We will see how things will go.</description>
+    </item>
+    
+  </channel>
+</rss>
