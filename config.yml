@@ -1,4 +1,11 @@
 baseURL: https://starlkyt.github.io/
-languageCode: en-us
 title: Starlk
 theme: PaperMod
+
+languages:
+  en:
+    languageName: "English"
+
+  ar:
+    languageName: "Arabic"
+    languagedirection: rtl
