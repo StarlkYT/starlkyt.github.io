@@ -7,5 +7,11 @@ languages:
     languageName: "English"
 
   ar:
-    languageName: "Arabic"
+    languageName: "العربية"
     languagedirection: rtl
+
+params:
+  displayFullLangName: true
+
+  assets:
+    favicon: "/favicon16.png"
